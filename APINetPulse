@@ -1,0 +1,23 @@
+
+---
+
+### **2. 34_APINetPulse**  
+**Description:**  
+Scans APIs across networks or clusters, logging uptime and latency in real time.
+
+#### **README.md**
+```markdown
+# APINetPulse - Multi-Cluster Endpoint Monitor
+
+APINetPulse checks large sets of endpoints and outputs performance metrics with optional export.
+
+## Features
+- Parallel endpoint scanning  
+- Response time + status code  
+- Export to JSON / CSV  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_APINetPulse.git
+cd 34_APINetPulse
+python monitor.py
