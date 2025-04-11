@@ -1,0 +1,23 @@
+
+---
+
+### **3. 34_LogEchoScope**  
+**Description:**  
+Analyzes log files for frequency spikes, repeated errors, and keyword-triggered events.
+
+#### **README.md**
+```markdown
+# LogEchoScope - Log Frequency & Pattern Analyzer
+
+LogEchoScope highlights what’s repeating too often or peaking too fast in your logs.
+
+## Features
+- Keyword clustering  
+- Burst detection  
+- Timestamp-based grouping  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_LogEchoScope.git
+cd 34_LogEchoScope
+python analyze.py
