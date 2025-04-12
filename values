@@ -1,0 +1,23 @@
+
+---
+
+### **4. 34_StreamPlotArray**  
+**Description:**  
+Live-plotting utility for numeric streams, rendered with smooth scrolling and responsive UI.
+
+#### **README.md**
+```markdown
+# StreamPlotArray - Realtime Data Plotter
+
+StreamPlotArray renders incoming values in a dynamic, real-time line chart for metrics, dashboards, and simulation outputs.
+
+## Features
+- Live auto-scroll chart  
+- Adjustable update speed  
+- Lightweight interface  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_StreamPlotArray.git
+cd 34_StreamPlotArray
+python visualize.py
